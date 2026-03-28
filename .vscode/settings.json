@@ -1,0 +1,6 @@
+{
+  "git.path": "C:\\Users\\86189\\AppData\\Local\\GitHubDesktop\\app-3.5.6\\resources\\app\\git\\cmd\\git.exe",
+  "terminal.integrated.env.windows": {
+    "PATH": "C:\\Users\\86189\\AppData\\Local\\GitHubDesktop\\app-3.5.6\\resources\\app\\git\\cmd;${env:PATH}"
+  }
+}
